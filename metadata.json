@@ -1,0 +1,6 @@
+{
+  "name": "SSC",
+  "description": "Scholar's School & College (SSC) Digital Portal and Chronos Interactive Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
